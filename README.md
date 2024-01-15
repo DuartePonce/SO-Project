@@ -1,5 +1,5 @@
 # SO-Project
-A project done for the Operating Systems lecture (Instituto Superior Técnico) involving a event manager system.
+A project done for the Operating Systems lecture (Instituto Superior Técnico) involving an event manager system.
 Essentially a way to use multiple threads and processes to more efficiently manage events.
 Done in collaboration with Rodrigo Salgueiro.
 ## Releases
